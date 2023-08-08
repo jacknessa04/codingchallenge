@@ -3,4 +3,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 NON = "Jacques Vanessa"
 laj = 26
 print ( "Mwen rele" , NON, "mwen genyen", laj, "lane")
-Mwen rele Jacques Vanessa mwen genyen 26 lane
